@@ -45,7 +45,7 @@
                 "sudo apt-get install ruby -y",
                 "sudo apt-get install wget",
                 "cd /home/ubuntu",
-                "wget https://newbucket77.s3.us-east-1.amazonaws.com/latest/install",
+                "wget https://newbucket77.s3.us-east-1.amazonaws.com/latest/install"
 
 
 
