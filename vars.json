@@ -3,6 +3,5 @@
     "aws_access_key": "{{`aws_access_key`}}",
     "aws_secret_key": "{{`aws_secret_key`}}",
     "subnet_id": "{{`subnet_id`}}",
-    "source_ami": "{{`source_ami`}}",
-     "source_am1": "{{``}}"
+    "source_ami": "{{`source_ami`}}"
 }
