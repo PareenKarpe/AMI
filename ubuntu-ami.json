@@ -43,8 +43,7 @@
                 "unzip awscliv2.zip",
                 "sudo ./aws/install",
                 "sudo apt-get install ruby -y",
-                "sudo apt-get install wget",
-                "cd /home/ubuntu"
+                "sudo apt-get install wget"
 
 
             ]
